@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Jemish6354/Jemish6354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,40 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hey, there 👋</h1>
 
 ###
 
-<!-- <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div> -->
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-  I'm ... from ....<br><br>
-  - 🔭 I’m working as ...<br
-  - 📚 I'm currently learning ...<br>
-  - ⚡ In my free time I ...</p>
+    Hey! I'm Jemish, <br><br>
+  - 🔭 I’m working as Software Engineer (Java Backend Developer) <br
+  - 📚 I'm currently learning <br>
+  - 👯 I am always open to collaborating on projects and innovative ideas. <br>
+  - ⚡ Reach out to me at jglathiya60575@gmail.com <br>
+</p>
 
 ###
 
@@ -78,12 +61,16 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  My Stats :</h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemish6354&show_icons=true&locale=en&layout=compact" alt="jemish6354" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jemish6354&show_icons=true&locale=en" alt="jemish6354" /></p>
+
+
 
 ###
