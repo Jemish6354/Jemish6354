@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+</div> -->
 
 ###
 
@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 
 ###
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemish6354&show_icons=true&locale=en&layout=compact" alt="jemish6354" />
-</p>
+</p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jemish6354&show_icons=true&locale=en" alt="jemish6354" /></p>
 
