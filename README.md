@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🔭 I’m working as Software Engineer (Java Backend Developer) <br>
 - 📚 I'm currently learning software scaling. <br>
 - 👯 I am always open to collaborating on projects and innovative ideas. <br>
-- ⚡ Reach out to me at **jglathiya60575@gmail.com** <br
+- ⚡ Reach out to me at **jglathiya60575@gmail.com** 
                                                      
 <br>
 ## 🔧 Technologies & Tools
@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 <!-- <h3 align="left">🔥  My Stats :</h3> -->
 <br>
+
 ## 📈Github Stats
 <p align="center">
 <a href="https://github.com/anusharma1729">
