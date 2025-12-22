@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <p align="left">
     Hey! I'm Jemish, <br><br>
-  - 🔭 I’m working as Software Engineer (Java Backend Developer) <br
+  - 🔭 I’m working as Software Engineer (Java Backend Developer) <br>
   - 📚 I'm currently learning <br>
   - 👯 I am always open to collaborating on projects and innovative ideas. <br>
-  - ⚡ Reach out to me at jglathiya60575@gmail.com <br>
+  - ⚡ Reach out to me at **jglathiya60575@gmail.com** <br>
 </p>
 
 ###
@@ -61,15 +61,17 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥  My Stats :</h3>
+<!-- <h3 align="left">🔥  My Stats :</h3> -->
 
 ###
 
-<!-- <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemish6354&show_icons=true&locale=en&layout=compact" alt="jemish6354" />
-</p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jemish6354&show_icons=true&locale=en" alt="jemish6354" /></p>
+📈Github Stats
+<p align="center">
+<a href="https://github.com/anusharma1729">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jemish6354&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jemish6354&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
