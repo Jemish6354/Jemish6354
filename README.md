@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Reach out to me at **jglathiya60575@gmail.com** 
                                                      
 <br>
+
 ## 🔧 Technologies & Tools
 
 ###
