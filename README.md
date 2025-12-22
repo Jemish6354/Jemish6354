@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">Hey, there 👋</h1>
+<h1 align="center">Hey! I'm Jemish 👋</h1>
 
-###
+<br>
 
 ## 👩‍💻 About Me
 
 ###
 
-Hey! I'm Jemish, <br><br>
 - 🔭 I’m working as Software Engineer (Java Backend Developer) <br>
 - 📚 I'm currently learning software scaling. <br>
 - 👯 I am always open to collaborating on projects and innovative ideas. <br>
-- ⚡ Reach out to me at **jglathiya60575@gmail.com** <br>
-
+- ⚡ Reach out to me at **jglathiya60575@gmail.com** <br
+                                                     
+<br>
 ## 🔧 Technologies & Tools
 
 ###
@@ -39,7 +39,7 @@ Hey! I'm Jemish, <br><br>
 <img height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
- <img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp; 
 
 #### **Frameworks, Platforms and Libraries**
@@ -61,7 +61,7 @@ Hey! I'm Jemish, <br><br>
 <img height=25 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp;&nbsp;
 
 <!-- <h3 align="left">🔥  My Stats :</h3> -->
-
+<br>
 ## 📈Github Stats
 <p align="center">
 <a href="https://github.com/anusharma1729">
